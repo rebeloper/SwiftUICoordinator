@@ -8,17 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		C95A2180298676D700FAEFBF /* SwiftUICoordinatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A217F298676D700FAEFBF /* SwiftUICoordinatorApp.swift */; };
-		C95A2182298676D700FAEFBF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A2181298676D700FAEFBF /* ContentView.swift */; };
 		C95A2184298676D800FAEFBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C95A2183298676D800FAEFBF /* Assets.xcassets */; };
 		C95A2187298676D800FAEFBF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C95A2186298676D800FAEFBF /* Preview Assets.xcassets */; };
+		C95A218E2986771700FAEFBF /* AppleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A218D2986771700FAEFBF /* AppleView.swift */; };
+		C95A21902986772800FAEFBF /* BananaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A218F2986772800FAEFBF /* BananaView.swift */; };
+		C95A21922986773500FAEFBF /* CarrotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21912986773500FAEFBF /* CarrotView.swift */; };
+		C95A21942986774E00FAEFBF /* LemonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21932986774E00FAEFBF /* LemonView.swift */; };
+		C95A21962986775C00FAEFBF /* OliveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21952986775C00FAEFBF /* OliveView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C95A217C298676D700FAEFBF /* SwiftUICoordinator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUICoordinator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C95A217F298676D700FAEFBF /* SwiftUICoordinatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICoordinatorApp.swift; sourceTree = "<group>"; };
-		C95A2181298676D700FAEFBF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C95A2183298676D800FAEFBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C95A2186298676D800FAEFBF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C95A218D2986771700FAEFBF /* AppleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleView.swift; sourceTree = "<group>"; };
+		C95A218F2986772800FAEFBF /* BananaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BananaView.swift; sourceTree = "<group>"; };
+		C95A21912986773500FAEFBF /* CarrotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrotView.swift; sourceTree = "<group>"; };
+		C95A21932986774E00FAEFBF /* LemonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonView.swift; sourceTree = "<group>"; };
+		C95A21952986775C00FAEFBF /* OliveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OliveView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +60,11 @@
 			isa = PBXGroup;
 			children = (
 				C95A217F298676D700FAEFBF /* SwiftUICoordinatorApp.swift */,
-				C95A2181298676D700FAEFBF /* ContentView.swift */,
+				C95A218D2986771700FAEFBF /* AppleView.swift */,
+				C95A218F2986772800FAEFBF /* BananaView.swift */,
+				C95A21912986773500FAEFBF /* CarrotView.swift */,
+				C95A21932986774E00FAEFBF /* LemonView.swift */,
+				C95A21952986775C00FAEFBF /* OliveView.swift */,
 				C95A2183298676D800FAEFBF /* Assets.xcassets */,
 				C95A2185298676D800FAEFBF /* Preview Content */,
 			);
@@ -137,8 +149,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C95A2182298676D700FAEFBF /* ContentView.swift in Sources */,
+				C95A218E2986771700FAEFBF /* AppleView.swift in Sources */,
 				C95A2180298676D700FAEFBF /* SwiftUICoordinatorApp.swift in Sources */,
+				C95A21922986773500FAEFBF /* CarrotView.swift in Sources */,
+				C95A21942986774E00FAEFBF /* LemonView.swift in Sources */,
+				C95A21902986772800FAEFBF /* BananaView.swift in Sources */,
+				C95A21962986775C00FAEFBF /* OliveView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
