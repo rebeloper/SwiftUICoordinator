@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUICoordinatorApp: App {
     var body: some Scene {
         WindowGroup {
-            AppleView()
+            CoordinatorView()
         }
     }
 }

@@ -15,6 +15,8 @@
 		C95A21922986773500FAEFBF /* CarrotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21912986773500FAEFBF /* CarrotView.swift */; };
 		C95A21942986774E00FAEFBF /* LemonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21932986774E00FAEFBF /* LemonView.swift */; };
 		C95A21962986775C00FAEFBF /* OliveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21952986775C00FAEFBF /* OliveView.swift */; };
+		C95A21982986B42D00FAEFBF /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21972986B42D00FAEFBF /* Coordinator.swift */; };
+		C95A219A2986B66A00FAEFBF /* CoordinatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95A21992986B66A00FAEFBF /* CoordinatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		C95A21912986773500FAEFBF /* CarrotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrotView.swift; sourceTree = "<group>"; };
 		C95A21932986774E00FAEFBF /* LemonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonView.swift; sourceTree = "<group>"; };
 		C95A21952986775C00FAEFBF /* OliveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OliveView.swift; sourceTree = "<group>"; };
+		C95A21972986B42D00FAEFBF /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		C95A21992986B66A00FAEFBF /* CoordinatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +69,8 @@
 				C95A21912986773500FAEFBF /* CarrotView.swift */,
 				C95A21932986774E00FAEFBF /* LemonView.swift */,
 				C95A21952986775C00FAEFBF /* OliveView.swift */,
+				C95A21972986B42D00FAEFBF /* Coordinator.swift */,
+				C95A21992986B66A00FAEFBF /* CoordinatorView.swift */,
 				C95A2183298676D800FAEFBF /* Assets.xcassets */,
 				C95A2185298676D800FAEFBF /* Preview Content */,
 			);
@@ -155,6 +161,8 @@
 				C95A21942986774E00FAEFBF /* LemonView.swift in Sources */,
 				C95A21902986772800FAEFBF /* BananaView.swift in Sources */,
 				C95A21962986775C00FAEFBF /* OliveView.swift in Sources */,
+				C95A21982986B42D00FAEFBF /* Coordinator.swift in Sources */,
+				C95A219A2986B66A00FAEFBF /* CoordinatorView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
